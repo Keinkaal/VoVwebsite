@@ -1,0 +1,28 @@
+html{
+	color: #007f00;
+	background: #000000;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+#MainBanner {
+	height: 500px;
+	width: 100%;
+	background: #ba5715;
+	padding:  0, 0, 10px, 0;
+}
+#logo{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	height: 450px;
+	align: center;
+}
+#AlbmCvr {
+	margin-top: 40px;
+	margin-left: 75px;
+	height: 200px;
+	width: 210px;
+	border-radius: 2%;
+}
